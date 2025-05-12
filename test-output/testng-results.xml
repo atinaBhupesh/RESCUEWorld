@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[WEBER RESCUE Hubtrue]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-1]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This month]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Diesen Monat]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text match with deutsch traslation.]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-2]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This month]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Diesen Monat]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text match with deutsch traslation.]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-3]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last month]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Letzten Monat]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text match with english traslation.]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-4]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last month]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Letzten Monat]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text match with english traslation.]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-5]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This year]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Dieses Jahr]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text does not match with any one.]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[expected >This year]]>
+    </line>
+    <line>
+      <![CDATA[Actual >Cette année]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-6]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This year]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Dieses Jahr]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text does not match with any one.]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[expected >This year]]>
+    </line>
+    <line>
+      <![CDATA[Actual >Cette année]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-7]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last year]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Letztes Jahr]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text does not match with any one.]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[expected >Last year]]>
+    </line>
+    <line>
+      <![CDATA[Actual >El año pasado]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-8]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last year]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Letztes Jahr]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text does not match with any one.]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[expected >Last year]]>
+    </line>
+    <line>
+      <![CDATA[Actual >El año pasado]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-9]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Custom date]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text does not match with any one.]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[expected >Custom date]]>
+    </line>
+    <line>
+      <![CDATA[Actual >カスタム日付]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-10]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Custom date]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[The text does not match with any one.]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[expected >Custom date]]>
+    </line>
+    <line>
+      <![CDATA[Actual >カスタム日付]]>
+    </line>
+    <line>
+      <![CDATA[**************** ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-11]]>
+    </line>
+    <line>
+      <![CDATA[Weber rescue hubtrue]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-1]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This month]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Diesen Monat]]>
+    </line>
+    <line>
+      <![CDATA[Spanish traslation > Este mes]]>
+    </line>
+    <line>
+      <![CDATA[French traslation > Ce mois-ci]]>
+    </line>
+    <line>
+      <![CDATA[Slovenian traslation > Ta mesec]]>
+    </line>
+    <line>
+      <![CDATA[Japanese traslation > 今月]]>
+    </line>
+    <line>
+      <![CDATA[weber traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-2]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This month]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-3]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last month]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Letzten Monat]]>
+    </line>
+    <line>
+      <![CDATA[Spanish traslation > El mes pasado]]>
+    </line>
+    <line>
+      <![CDATA[French traslation > Le mois dernier]]>
+    </line>
+    <line>
+      <![CDATA[Slovenian traslation > Prejšnji mesec]]>
+    </line>
+    <line>
+      <![CDATA[Japanese traslation > 先月]]>
+    </line>
+    <line>
+      <![CDATA[weber traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-4]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last month]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-5]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This year]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Dieses Jahr]]>
+    </line>
+    <line>
+      <![CDATA[Spanish traslation > Este año]]>
+    </line>
+    <line>
+      <![CDATA[French traslation > Cette année]]>
+    </line>
+    <line>
+      <![CDATA[Slovenian traslation > Letos]]>
+    </line>
+    <line>
+      <![CDATA[Japanese traslation > 今年]]>
+    </line>
+    <line>
+      <![CDATA[weber traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-6]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > This year]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-7]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last year]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Letztes Jahr]]>
+    </line>
+    <line>
+      <![CDATA[Spanish traslation > El año pasado]]>
+    </line>
+    <line>
+      <![CDATA[French traslation > L'année dernière]]>
+    </line>
+    <line>
+      <![CDATA[Slovenian traslation > Lansko leto]]>
+    </line>
+    <line>
+      <![CDATA[Japanese traslation > 昨年]]>
+    </line>
+    <line>
+      <![CDATA[weber traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-8]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Last year]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-9]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Weber]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Custom date]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
+    </line>
+    <line>
+      <![CDATA[Spanish traslation > Fecha personalizada]]>
+    </line>
+    <line>
+      <![CDATA[French traslation > Date personnalisée]]>
+    </line>
+    <line>
+      <![CDATA[Slovenian traslation > Datum po meri]]>
+    </line>
+    <line>
+      <![CDATA[Japanese traslation > カスタム日付]]>
+    </line>
+    <line>
+      <![CDATA[weber traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-10]]>
+    </line>
+    <line>
+      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+    </line>
+    <line>
+      <![CDATA[Product Application Name > Genesis]]>
+    </line>
+    <line>
+      <![CDATA[Translation category > App - Device]]>
+    </line>
+    <line>
+      <![CDATA[Translation Sub category > Devcie Details ]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+    </line>
+    <line>
+      <![CDATA[English traslation > Custom date]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[Genesis traslation added]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[logout successfully. ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-09T10:46:27 IST" name="Suite" finished-at="2025-05-09T10:53:49 IST" duration-ms="442288">
+    <groups>
+    </groups>
+    <test started-at="2025-05-09T10:46:27 IST" name="Test" finished-at="2025-05-09T10:53:49 IST" duration-ms="442288">
+      <class name="live.AA_TestClass">
+        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:46:27 IST" name="m1" finished-at="2025-05-09T10:46:38 IST" duration-ms="10739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:46:38 IST" name="backToHome" finished-at="2025-05-09T10:46:41 IST" duration-ms="2885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="checkTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:46:41 IST" name="checkTraslation" finished-at="2025-05-09T10:49:07 IST" duration-ms="145870" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
+at live.D_traslation.checkTraslation(D_traslation.java:645)
+at live.AA_TestClass.checkTraslation(AA_TestClass.java:67)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[WEBER RESCUE Hubtrue]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-1]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This month]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Diesen Monat]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text match with deutsch traslation.]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-2]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This month]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Diesen Monat]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text match with deutsch traslation.]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-3]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last month]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Letzten Monat]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text match with english traslation.]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-4]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last month]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Letzten Monat]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text match with english traslation.]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-5]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This year]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Dieses Jahr]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text does not match with any one.]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[expected >This year]]>
+            </line>
+            <line>
+              <![CDATA[Actual >Cette année]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-6]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This year]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Dieses Jahr]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text does not match with any one.]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[expected >This year]]>
+            </line>
+            <line>
+              <![CDATA[Actual >Cette année]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-7]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last year]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Letztes Jahr]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text does not match with any one.]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[expected >Last year]]>
+            </line>
+            <line>
+              <![CDATA[Actual >El año pasado]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-8]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last year]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Letztes Jahr]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text does not match with any one.]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[expected >Last year]]>
+            </line>
+            <line>
+              <![CDATA[Actual >El año pasado]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-9]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Custom date]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text does not match with any one.]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[expected >Custom date]]>
+            </line>
+            <line>
+              <![CDATA[Actual >カスタム日付]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-10]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Custom date]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[The text does not match with any one.]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[expected >Custom date]]>
+            </line>
+            <line>
+              <![CDATA[Actual >カスタム日付]]>
+            </line>
+            <line>
+              <![CDATA[**************** ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkTraslation -->
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:49:07 IST" name="backToHomePage2" finished-at="2025-05-09T10:49:09 IST" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHomePage2 -->
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:49:09 IST" name="backToHome" finished-at="2025-05-09T10:49:11 IST" duration-ms="2043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="addTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:49:11 IST" name="addTraslation" finished-at="2025-05-09T10:53:43 IST" duration-ms="272133" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
+at live.D_traslation.addTraslation(D_traslation.java:260)
+at live.AA_TestClass.addTraslation(AA_TestClass.java:53)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Weber rescue hubtrue]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-1]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This month]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Diesen Monat]]>
+            </line>
+            <line>
+              <![CDATA[Spanish traslation > Este mes]]>
+            </line>
+            <line>
+              <![CDATA[French traslation > Ce mois-ci]]>
+            </line>
+            <line>
+              <![CDATA[Slovenian traslation > Ta mesec]]>
+            </line>
+            <line>
+              <![CDATA[Japanese traslation > 今月]]>
+            </line>
+            <line>
+              <![CDATA[weber traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-2]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This month]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-3]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last month]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Letzten Monat]]>
+            </line>
+            <line>
+              <![CDATA[Spanish traslation > El mes pasado]]>
+            </line>
+            <line>
+              <![CDATA[French traslation > Le mois dernier]]>
+            </line>
+            <line>
+              <![CDATA[Slovenian traslation > Prejšnji mesec]]>
+            </line>
+            <line>
+              <![CDATA[Japanese traslation > 先月]]>
+            </line>
+            <line>
+              <![CDATA[weber traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-4]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last month]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-5]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This year]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Dieses Jahr]]>
+            </line>
+            <line>
+              <![CDATA[Spanish traslation > Este año]]>
+            </line>
+            <line>
+              <![CDATA[French traslation > Cette année]]>
+            </line>
+            <line>
+              <![CDATA[Slovenian traslation > Letos]]>
+            </line>
+            <line>
+              <![CDATA[Japanese traslation > 今年]]>
+            </line>
+            <line>
+              <![CDATA[weber traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-6]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > This year]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-7]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last year]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Letztes Jahr]]>
+            </line>
+            <line>
+              <![CDATA[Spanish traslation > El año pasado]]>
+            </line>
+            <line>
+              <![CDATA[French traslation > L'année dernière]]>
+            </line>
+            <line>
+              <![CDATA[Slovenian traslation > Lansko leto]]>
+            </line>
+            <line>
+              <![CDATA[Japanese traslation > 昨年]]>
+            </line>
+            <line>
+              <![CDATA[weber traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-8]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Last year]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-9]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Weber]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Custom date]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
+            </line>
+            <line>
+              <![CDATA[Spanish traslation > Fecha personalizada]]>
+            </line>
+            <line>
+              <![CDATA[French traslation > Date personnalisée]]>
+            </line>
+            <line>
+              <![CDATA[Slovenian traslation > Datum po meri]]>
+            </line>
+            <line>
+              <![CDATA[Japanese traslation > カスタム日付]]>
+            </line>
+            <line>
+              <![CDATA[weber traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-10]]>
+            </line>
+            <line>
+              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+            </line>
+            <line>
+              <![CDATA[Product Application Name > Genesis]]>
+            </line>
+            <line>
+              <![CDATA[Translation category > App - Device]]>
+            </line>
+            <line>
+              <![CDATA[Translation Sub category > Devcie Details ]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+            </line>
+            <line>
+              <![CDATA[English traslation > Custom date]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[Genesis traslation added]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addTraslation -->
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:53:43 IST" name="backToHomePage2" finished-at="2025-05-09T10:53:45 IST" duration-ms="2109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHomePage2 -->
+        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:53:45 IST" name="m2" finished-at="2025-05-09T10:53:49 IST" duration-ms="4367" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout successfully. ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- live.AA_TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
