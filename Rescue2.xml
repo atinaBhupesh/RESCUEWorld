@@ -6,11 +6,10 @@
       <class name="live.AA_TestClass"/>
        <methods>
 		   
-		   
-	
-		     <include name="addTraslation"  /> 
-	
 		  <include name="checkTraslation"  /> 
+		    <include name="addTraslation"  /> 
+		    
+		    
 		    
        </methods>
       

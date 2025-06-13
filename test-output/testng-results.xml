@@ -2,1224 +2,78 @@
 <testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[WEBER RESCUE Hubtrue]]>
+      <![CDATA[RETTERAlarmtrue]]>
     </line>
     <line>
       <![CDATA[TRASLATION NO-1]]>
     </line>
     <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
+      <![CDATA[Key > time_overview]]>
     </line>
     <line>
-      <![CDATA[Translation category > Weber]]>
+      <![CDATA[>>>>> RETTERAlarm RetterAlarm - APP Translation already exists.<<<<<]]>
     </line>
     <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This month]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Diesen Monat]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text match with deutsch traslation.]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-2]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This month]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Diesen Monat]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text match with deutsch traslation.]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-3]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last month]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Letzten Monat]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text match with english traslation.]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-4]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last month]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Letzten Monat]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text match with english traslation.]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-5]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This year]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Dieses Jahr]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text does not match with any one.]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[expected >This year]]>
-    </line>
-    <line>
-      <![CDATA[Actual >Cette année]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-6]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This year]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Dieses Jahr]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text does not match with any one.]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[expected >This year]]>
-    </line>
-    <line>
-      <![CDATA[Actual >Cette année]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-7]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last year]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Letztes Jahr]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text does not match with any one.]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[expected >Last year]]>
-    </line>
-    <line>
-      <![CDATA[Actual >El año pasado]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-8]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last year]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Letztes Jahr]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text does not match with any one.]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[expected >Last year]]>
-    </line>
-    <line>
-      <![CDATA[Actual >El año pasado]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-9]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Custom date]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text does not match with any one.]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[expected >Custom date]]>
-    </line>
-    <line>
-      <![CDATA[Actual >カスタム日付]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-10]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Custom date]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[The text does not match with any one.]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[expected >Custom date]]>
-    </line>
-    <line>
-      <![CDATA[Actual >カスタム日付]]>
-    </line>
-    <line>
-      <![CDATA[**************** ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-11]]>
-    </line>
-    <line>
-      <![CDATA[Weber rescue hubtrue]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-1]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This month]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Diesen Monat]]>
-    </line>
-    <line>
-      <![CDATA[Spanish traslation > Este mes]]>
-    </line>
-    <line>
-      <![CDATA[French traslation > Ce mois-ci]]>
-    </line>
-    <line>
-      <![CDATA[Slovenian traslation > Ta mesec]]>
-    </line>
-    <line>
-      <![CDATA[Japanese traslation > 今月]]>
-    </line>
-    <line>
-      <![CDATA[weber traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-2]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This month]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-3]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last month]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Letzten Monat]]>
-    </line>
-    <line>
-      <![CDATA[Spanish traslation > El mes pasado]]>
-    </line>
-    <line>
-      <![CDATA[French traslation > Le mois dernier]]>
-    </line>
-    <line>
-      <![CDATA[Slovenian traslation > Prejšnji mesec]]>
-    </line>
-    <line>
-      <![CDATA[Japanese traslation > 先月]]>
-    </line>
-    <line>
-      <![CDATA[weber traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-4]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last month]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-5]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This year]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Dieses Jahr]]>
-    </line>
-    <line>
-      <![CDATA[Spanish traslation > Este año]]>
-    </line>
-    <line>
-      <![CDATA[French traslation > Cette année]]>
-    </line>
-    <line>
-      <![CDATA[Slovenian traslation > Letos]]>
-    </line>
-    <line>
-      <![CDATA[Japanese traslation > 今年]]>
-    </line>
-    <line>
-      <![CDATA[weber traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-6]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > This year]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-7]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last year]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Letztes Jahr]]>
-    </line>
-    <line>
-      <![CDATA[Spanish traslation > El año pasado]]>
-    </line>
-    <line>
-      <![CDATA[French traslation > L'année dernière]]>
-    </line>
-    <line>
-      <![CDATA[Slovenian traslation > Lansko leto]]>
-    </line>
-    <line>
-      <![CDATA[Japanese traslation > 昨年]]>
-    </line>
-    <line>
-      <![CDATA[weber traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-8]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Last year]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-9]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Weber]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Custom date]]>
-    </line>
-    <line>
-      <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
-    </line>
-    <line>
-      <![CDATA[Spanish traslation > Fecha personalizada]]>
-    </line>
-    <line>
-      <![CDATA[French traslation > Date personnalisée]]>
-    </line>
-    <line>
-      <![CDATA[Slovenian traslation > Datum po meri]]>
-    </line>
-    <line>
-      <![CDATA[Japanese traslation > カスタム日付]]>
-    </line>
-    <line>
-      <![CDATA[weber traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[TRASLATION NO-10]]>
-    </line>
-    <line>
-      <![CDATA[Product Name > WEBER RESCUE Hub]]>
-    </line>
-    <line>
-      <![CDATA[Product Application Name > Genesis]]>
-    </line>
-    <line>
-      <![CDATA[Translation category > App - Device]]>
-    </line>
-    <line>
-      <![CDATA[Translation Sub category > Devcie Details ]]>
-    </line>
-    <line>
-      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-    </line>
-    <line>
-      <![CDATA[English traslation > Custom date]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[Genesis traslation added]]>
-    </line>
-    <line>
-      <![CDATA[ ]]>
-    </line>
-    <line>
-      <![CDATA[logout successfully. ]]>
+      <![CDATA[RETTERAlarmtrue]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-05-09T10:46:27 IST" name="Suite" finished-at="2025-05-09T10:53:49 IST" duration-ms="442288">
+  <suite started-at="2025-06-13T11:20:48 IST" name="Suite" finished-at="2025-06-13T11:22:01 IST" duration-ms="73342">
     <groups>
     </groups>
-    <test started-at="2025-05-09T10:46:27 IST" name="Test" finished-at="2025-05-09T10:53:49 IST" duration-ms="442288">
+    <test started-at="2025-06-13T11:20:48 IST" name="Test" finished-at="2025-06-13T11:22:01 IST" duration-ms="73342">
       <class name="live.AA_TestClass">
-        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:46:27 IST" name="m1" finished-at="2025-05-09T10:46:38 IST" duration-ms="10739" status="PASS">
+        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:20:48 IST" name="m1" finished-at="2025-06-13T11:20:58 IST" duration-ms="10242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
-        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:46:38 IST" name="backToHome" finished-at="2025-05-09T10:46:41 IST" duration-ms="2885" status="PASS">
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:20:58 IST" name="backToHome" finished-at="2025-06-13T11:21:01 IST" duration-ms="3107" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- backToHome -->
-        <test-method signature="checkTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:46:41 IST" name="checkTraslation" finished-at="2025-05-09T10:49:07 IST" duration-ms="145870" status="FAIL">
-          <exception class="java.lang.NullPointerException">
+        <test-method signature="addTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:21:01 IST" name="addTraslation" finished-at="2025-06-13T11:21:33 IST" duration-ms="31526" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
-              <![CDATA[Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null]]>
+              <![CDATA[element not interactable
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [919164ef962fe4314c786a7a5d9b30c6, clickElement {id=f.59F32F1FEE7D20B5F737D97DB8ED6187.d.C7EAFE5F781484669DBCD1BE6438814A.e.2420}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\BHUPESH\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51236/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (919164ef962fe4314c786a7a5d9b30c6)] -> xpath: //span[text()=" Translation "]]
+Session ID: 919164ef962fe4314c786a7a5d9b30c6]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
-at live.D_traslation.checkTraslation(D_traslation.java:645)
-at live.AA_TestClass.checkTraslation(AA_TestClass.java:67)
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [919164ef962fe4314c786a7a5d9b30c6, clickElement {id=f.59F32F1FEE7D20B5F737D97DB8ED6187.d.C7EAFE5F781484669DBCD1BE6438814A.e.2420}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\BHUPESH\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51236/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (919164ef962fe4314c786a7a5d9b30c6)] -> xpath: //span[text()=" Translation "]]
+Session ID: 919164ef962fe4314c786a7a5d9b30c6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:819)
-at org.testng.TestRunner.run(TestRunner.java:619)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
-at org.testng.TestNG.runSuites(TestNG.java:1134)
-at org.testng.TestNG.run(TestNG.java:1101)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-            <line>
-              <![CDATA[WEBER RESCUE Hubtrue]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-1]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This month]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Diesen Monat]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text match with deutsch traslation.]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-2]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This month]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Diesen Monat]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text match with deutsch traslation.]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-3]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last month]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Letzten Monat]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text match with english traslation.]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-4]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last month]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Letzten Monat]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text match with english traslation.]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-5]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This year]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Dieses Jahr]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text does not match with any one.]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[expected >This year]]>
-            </line>
-            <line>
-              <![CDATA[Actual >Cette année]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-6]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This year]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Dieses Jahr]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text does not match with any one.]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[expected >This year]]>
-            </line>
-            <line>
-              <![CDATA[Actual >Cette année]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-7]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last year]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Letztes Jahr]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text does not match with any one.]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[expected >Last year]]>
-            </line>
-            <line>
-              <![CDATA[Actual >El año pasado]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-8]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last year]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Letztes Jahr]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text does not match with any one.]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[expected >Last year]]>
-            </line>
-            <line>
-              <![CDATA[Actual >El año pasado]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-9]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Custom date]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text does not match with any one.]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[expected >Custom date]]>
-            </line>
-            <line>
-              <![CDATA[Actual >カスタム日付]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-10]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Custom date]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[The text does not match with any one.]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[expected >Custom date]]>
-            </line>
-            <line>
-              <![CDATA[Actual >カスタム日付]]>
-            </line>
-            <line>
-              <![CDATA[**************** ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-11]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- checkTraslation -->
-        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:49:07 IST" name="backToHomePage2" finished-at="2025-05-09T10:49:09 IST" duration-ms="2098" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- backToHomePage2 -->
-        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:49:09 IST" name="backToHome" finished-at="2025-05-09T10:49:11 IST" duration-ms="2043" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- backToHome -->
-        <test-method signature="addTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:49:11 IST" name="addTraslation" finished-at="2025-05-09T10:53:43 IST" duration-ms="272133" status="FAIL">
-          <exception class="java.lang.NullPointerException">
-            <message>
-              <![CDATA[Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
-at live.D_traslation.addTraslation(D_traslation.java:260)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy14.click(Unknown Source)
+at live.D_traslation.addTraslation(D_traslation.java:168)
 at live.AA_TestClass.addTraslation(AA_TestClass.java:53)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
@@ -1251,382 +105,191 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
           <reporter-output>
             <line>
-              <![CDATA[Weber rescue hubtrue]]>
+              <![CDATA[RETTERAlarmtrue]]>
             </line>
             <line>
               <![CDATA[TRASLATION NO-1]]>
             </line>
             <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
+              <![CDATA[Key > time_overview]]>
             </line>
             <line>
-              <![CDATA[Product Application Name > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This month]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Diesen Monat]]>
-            </line>
-            <line>
-              <![CDATA[Spanish traslation > Este mes]]>
-            </line>
-            <line>
-              <![CDATA[French traslation > Ce mois-ci]]>
-            </line>
-            <line>
-              <![CDATA[Slovenian traslation > Ta mesec]]>
-            </line>
-            <line>
-              <![CDATA[Japanese traslation > 今月]]>
-            </line>
-            <line>
-              <![CDATA[weber traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-2]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This month]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-3]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last month]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Letzten Monat]]>
-            </line>
-            <line>
-              <![CDATA[Spanish traslation > El mes pasado]]>
-            </line>
-            <line>
-              <![CDATA[French traslation > Le mois dernier]]>
-            </line>
-            <line>
-              <![CDATA[Slovenian traslation > Prejšnji mesec]]>
-            </line>
-            <line>
-              <![CDATA[Japanese traslation > 先月]]>
-            </line>
-            <line>
-              <![CDATA[weber traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-4]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last month]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-5]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This year]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Dieses Jahr]]>
-            </line>
-            <line>
-              <![CDATA[Spanish traslation > Este año]]>
-            </line>
-            <line>
-              <![CDATA[French traslation > Cette année]]>
-            </line>
-            <line>
-              <![CDATA[Slovenian traslation > Letos]]>
-            </line>
-            <line>
-              <![CDATA[Japanese traslation > 今年]]>
-            </line>
-            <line>
-              <![CDATA[weber traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-6]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > This year]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-7]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last year]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Letztes Jahr]]>
-            </line>
-            <line>
-              <![CDATA[Spanish traslation > El año pasado]]>
-            </line>
-            <line>
-              <![CDATA[French traslation > L'année dernière]]>
-            </line>
-            <line>
-              <![CDATA[Slovenian traslation > Lansko leto]]>
-            </line>
-            <line>
-              <![CDATA[Japanese traslation > 昨年]]>
-            </line>
-            <line>
-              <![CDATA[weber traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-8]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Last year]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-9]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Weber]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Custom date]]>
-            </line>
-            <line>
-              <![CDATA[Deutsch traslation > Benutzerdefiniertes Datum]]>
-            </line>
-            <line>
-              <![CDATA[Spanish traslation > Fecha personalizada]]>
-            </line>
-            <line>
-              <![CDATA[French traslation > Date personnalisée]]>
-            </line>
-            <line>
-              <![CDATA[Slovenian traslation > Datum po meri]]>
-            </line>
-            <line>
-              <![CDATA[Japanese traslation > カスタム日付]]>
-            </line>
-            <line>
-              <![CDATA[weber traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
-            </line>
-            <line>
-              <![CDATA[TRASLATION NO-10]]>
-            </line>
-            <line>
-              <![CDATA[Product Name > WEBER RESCUE Hub]]>
-            </line>
-            <line>
-              <![CDATA[Product Application Name > Genesis]]>
-            </line>
-            <line>
-              <![CDATA[Translation category > App - Device]]>
-            </line>
-            <line>
-              <![CDATA[Translation Sub category > Devcie Details ]]>
-            </line>
-            <line>
-              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
-            </line>
-            <line>
-              <![CDATA[English traslation > Custom date]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[Genesis traslation added]]>
-            </line>
-            <line>
-              <![CDATA[ ]]>
+              <![CDATA[>>>>> RETTERAlarm RetterAlarm - APP Translation already exists.<<<<<]]>
             </line>
           </reporter-output>
         </test-method> <!-- addTraslation -->
-        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:53:43 IST" name="backToHomePage2" finished-at="2025-05-09T10:53:45 IST" duration-ms="2109" status="PASS">
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:21:33 IST" name="backToHomePage2" finished-at="2025-06-13T11:21:35 IST" duration-ms="2118" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- backToHomePage2 -->
-        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-05-09T10:53:45 IST" name="m2" finished-at="2025-05-09T10:53:49 IST" duration-ms="4367" status="PASS">
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:21:35 IST" name="backToHome" finished-at="2025-06-13T11:21:37 IST" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="checkTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:21:37 IST" name="checkTraslation" finished-at="2025-06-13T11:21:47 IST" duration-ms="10092" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [919164ef962fe4314c786a7a5d9b30c6, clickElement {id=f.59F32F1FEE7D20B5F737D97DB8ED6187.d.C7EAFE5F781484669DBCD1BE6438814A.e.2420}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\BHUPESH\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51236/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (919164ef962fe4314c786a7a5d9b30c6)] -> xpath: //span[text()=" Translation "]]
+Session ID: 919164ef962fe4314c786a7a5d9b30c6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [919164ef962fe4314c786a7a5d9b30c6, clickElement {id=f.59F32F1FEE7D20B5F737D97DB8ED6187.d.C7EAFE5F781484669DBCD1BE6438814A.e.2420}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\BHUPESH\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51236/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (919164ef962fe4314c786a7a5d9b30c6)] -> xpath: //span[text()=" Translation "]]
+Session ID: 919164ef962fe4314c786a7a5d9b30c6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy14.click(Unknown Source)
+at live.D_traslation.checkTraslation(D_traslation.java:453)
+at live.AA_TestClass.checkTraslation(AA_TestClass.java:67)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
           <reporter-output>
             <line>
-              <![CDATA[logout successfully. ]]>
+              <![CDATA[RETTERAlarmtrue]]>
             </line>
+          </reporter-output>
+        </test-method> <!-- checkTraslation -->
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:21:47 IST" name="backToHomePage2" finished-at="2025-06-13T11:21:49 IST" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHomePage2 -->
+        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T11:21:49 IST" name="m2" finished-at="2025-06-13T11:22:01 IST" duration-ms="12101" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [919164ef962fe4314c786a7a5d9b30c6, clickElement {id=f.59F32F1FEE7D20B5F737D97DB8ED6187.d.C7EAFE5F781484669DBCD1BE6438814A.e.3323}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\BHUPESH\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51236/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (919164ef962fe4314c786a7a5d9b30c6)] -> xpath: //a[@class="txt-link d-wrap" and @href="javascript:void(0)"]]
+Session ID: 919164ef962fe4314c786a7a5d9b30c6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [919164ef962fe4314c786a7a5d9b30c6, clickElement {id=f.59F32F1FEE7D20B5F737D97DB8ED6187.d.C7EAFE5F781484669DBCD1BE6438814A.e.3323}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\BHUPESH\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51236/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (919164ef962fe4314c786a7a5d9b30c6)] -> xpath: //a[@class="txt-link d-wrap" and @href="javascript:void(0)"]]
+Session ID: 919164ef962fe4314c786a7a5d9b30c6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy14.click(Unknown Source)
+at live.B_loginPage.logOut(B_loginPage.java:57)
+at live.AA_TestClass.m2(AA_TestClass.java:92)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:229)
+at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:215)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:131)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
           </reporter-output>
         </test-method> <!-- m2 -->
       </class> <!-- live.AA_TestClass -->

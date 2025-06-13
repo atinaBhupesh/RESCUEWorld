@@ -49,7 +49,7 @@ public class AA_TestClass extends AAA_baseClass {
 	@Test
 	public void addTraslation () throws Throwable
 	{
-		
+		System.out.println("Add Traslation");
 		ts.addTraslation( driver, productNumber, count,  pName, tCat, key, en, de, ProdApplication,  tSubCat,  es, fr,  sl,  jp);
 		
 			
@@ -61,7 +61,7 @@ public class AA_TestClass extends AAA_baseClass {
 	@Test
 	public void checkTraslation () throws Throwable
 	{
-		System.out.println("checkTraslation");
+		System.out.println("Check Traslation");
 	
 		
 		ts.checkTraslation( driver, productNumber, count,  pName, tCat, key,  en, de, ProdApplication,  tSubCat,  es,
