@@ -93,7 +93,7 @@ public class D_traslation extends AAA_baseClass {
 			
 		//	Reporter.log(RETTERAlarm add);
 		
-			Reporter.log("RETTERAlarm" + true);
+			
 
 			File src = new File(".\\DataFile\\TraslationFile.xlsx");
 			FileInputStream ipt = new FileInputStream(src);
@@ -101,6 +101,10 @@ public class D_traslation extends AAA_baseClass {
 			XSSFSheet sheet = wb.getSheetAt(0);
 
 			count = sheet.getPhysicalNumberOfRows();
+			
+			  Reporter.log("Adding RETTERAlarm Translation.", true);
+			  Reporter.log("Total Traslation Available in sheet-"+ count, true);
+			  
 			traslation.click();
 			Thread.sleep(2000);
 
@@ -258,7 +262,7 @@ public class D_traslation extends AAA_baseClass {
 		{
 			Actions act = new Actions (driver);
 			
-			Reporter.log("Weber rescue hub"+true);
+		
 			File src = new File(".\\DataFile\\TraslationFile.xlsx");
 
 			FileInputStream ipt = new FileInputStream(src);
@@ -268,6 +272,9 @@ public class D_traslation extends AAA_baseClass {
 			XSSFSheet sheet = wb.getSheetAt(1);
 			
 			count = sheet.getPhysicalNumberOfRows();
+			
+			Reporter.log("Adding Weber rescue hub Translation.", true);
+			Reporter.log("Total Traslation Available in sheet-"+ count, true);
 			
 			
 			traslation.click();
@@ -436,7 +443,7 @@ public class D_traslation extends AAA_baseClass {
 		
 		//	Reporter.log(RETTERAlarm check);
 
-	    Reporter.log("RETTERAlarm" + true);
+	   
 
 	    File src = new File(".\\DataFile\\TraslationFile.xlsx");
 	    FileInputStream ipt = new FileInputStream(src);
@@ -444,7 +451,10 @@ public class D_traslation extends AAA_baseClass {
 	    XSSFSheet sheet = wb.getSheetAt(0);
 
 	    count = sheet.getPhysicalNumberOfRows();
-	    System.out.println(count);
+	    
+	    Reporter.log("Checking RETTERAlarm Translation.", true);
+	    Reporter.log("Total Traslation Available in sheet-"+ count, true);
+
 
 	    List<Integer> failedLoopNumbers = new ArrayList<>();
 	    List<String> failedKeys = new ArrayList<>(); // <-- Added list for unmatched keys
@@ -493,7 +503,7 @@ public class D_traslation extends AAA_baseClass {
 	        
 
 	        int ZA = getTransCount.size();
-	        System.out.println(ZA);
+	      
 	        boolean enMatchFound = false;
 
 	        for (int q = 0; q < ZA; q++) {
@@ -689,15 +699,16 @@ public class D_traslation extends AAA_baseClass {
 		{
 			
 			
-	
-			Reporter.log("Weber rescue hub"+true);
+			
 			 File src = new File(".\\DataFile\\TraslationFile.xlsx");
 			 FileInputStream ipt = new FileInputStream(src);
 			    XSSFWorkbook wb = new XSSFWorkbook(ipt);
 			    XSSFSheet sheet = wb.getSheetAt(1);
 
 			    count = sheet.getPhysicalNumberOfRows();
-			    System.out.println(count);
+			    
+			    Reporter.log("Checking Weber rescue hub Translation.", true);
+			    Reporter.log("Total Traslation Available in sheet-"+ count, true);
 
 			    List<Integer> failedLoopNumbers = new ArrayList<>();
 			    List<String> failedKeys = new ArrayList<>(); // <-- Added list for unmatched keys
