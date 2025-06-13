@@ -103,7 +103,8 @@ public class D_traslation extends AAA_baseClass {
 			count = sheet.getPhysicalNumberOfRows();
 			
 			  Reporter.log("Adding RETTERAlarm Translation.", true);
-			  Reporter.log("Total Traslation Available in sheet-"+ count, true);
+			  Reporter.log("Total Traslation Available in sheet-"+ (count-1), true);
+			  System.out.println();
 			  
 			traslation.click();
 			Thread.sleep(2000);
@@ -274,7 +275,8 @@ public class D_traslation extends AAA_baseClass {
 			count = sheet.getPhysicalNumberOfRows();
 			
 			Reporter.log("Adding Weber rescue hub Translation.", true);
-			Reporter.log("Total Traslation Available in sheet-"+ count, true);
+			Reporter.log("Total Traslation Available in sheet-"+ (count-1), true);
+			  System.out.println();
 			
 			
 			traslation.click();
@@ -453,7 +455,8 @@ public class D_traslation extends AAA_baseClass {
 	    count = sheet.getPhysicalNumberOfRows();
 	    
 	    Reporter.log("Checking RETTERAlarm Translation.", true);
-	    Reporter.log("Total Traslation Available in sheet-"+ count, true);
+	    Reporter.log("Total Traslation Available in sheet-"+ (count-1), true);
+	    System.out.println();
 
 
 	    List<Integer> failedLoopNumbers = new ArrayList<>();
@@ -568,6 +571,176 @@ public class D_traslation extends AAA_baseClass {
 	}
 	
 	
+	if (productNumber.equals("7")) 
+	{
+		
+		
+		
+		 File src = new File(".\\DataFile\\TraslationFile.xlsx");
+		 FileInputStream ipt = new FileInputStream(src);
+		    XSSFWorkbook wb = new XSSFWorkbook(ipt);
+		    XSSFSheet sheet = wb.getSheetAt(1);
+
+		    count = sheet.getPhysicalNumberOfRows();
+		    
+		    Reporter.log("Checking Weber rescue hub Translation.", true);
+		    Reporter.log("Total Traslation Available in sheet-"+ (count-1), true);
+		    System.out.println();
+
+		    List<Integer> failedLoopNumbers = new ArrayList<>();
+		    List<String> failedKeys = new ArrayList<>(); // <-- Added list for unmatched keys
+		    int failCount = 0;
+
+		    traslation.click();
+		    Thread.sleep(2000);
+		    
+		    Select pg = new Select (itemPerPage); 
+		    
+		    pg.selectByVisibleText("100");
+		    Thread.sleep(2000);
+
+		    for (int i = 1; i <= count - 1; i++) {
+
+		        Reporter.log("TRASLATION NO-" + i, true);
+
+		        pName = sheet.getRow(i).getCell(0).getStringCellValue();
+		        tCat = sheet.getRow(i).getCell(1).getStringCellValue();
+		        tSubCat = sheet.getRow(i).getCell(2).getStringCellValue();
+		        key = sheet.getRow(i).getCell(3).getStringCellValue();
+//		        Reporter.log("Key > " + key, true);
+		        en = sheet.getRow(i).getCell(4).getStringCellValue();
+		        de = sheet.getRow(i).getCell(5).getStringCellValue();
+		        es = sheet.getRow(i).getCell(6).getStringCellValue();
+		        fr = sheet.getRow(i).getCell(7).getStringCellValue();
+		        sl = sheet.getRow(i).getCell(8).getStringCellValue();
+		        jp = sheet.getRow(i).getCell(9).getStringCellValue();
+		        Actions act = new Actions(driver);
+
+		        searchKey.click();
+		        Thread.sleep(1000);
+		        act.sendKeys(key).perform();
+		        Thread.sleep(2000);
+		        System.out.println("Key > " + key);
+
+		        Select se = new Select(CKSelectProduct);
+		        se.selectByVisibleText(pName);
+		        Thread.sleep(1000);
+
+		        Select se1 = new Select(CKSelectLanguage);
+		        se1.selectByVisibleText("English");
+		        Thread.sleep(1000);
+		        
+		        
+
+		        Select se2 = new Select(CKSelectCatory);
+		        se2.selectByVisibleText(tCat);
+		        Thread.sleep(1000);
+		        
+		        
+		        Select se3 = new Select(CKSelectSubCatory);
+		        se3.selectByVisibleText(tSubCat);
+		        Thread.sleep(1000);
+		        
+		       
+		        int ZA = getTransCount.size();
+		        boolean enMatchFound = false;
+
+		        for (int q = 0; q < ZA; q++) {
+		            WebElement getTrans = getTransCount.get(q);
+		            String ab = getTrans.getText().trim();
+
+		            if (ab.equals(en.trim())) {
+		                Reporter.log("The English translation Match.", true);
+		                enMatchFound = true;
+		                break;
+		            }
+		        }
+
+		        if (!enMatchFound) {
+		            failCount++;
+		            failedLoopNumbers.add(i);
+		            failedKeys.add(key); // <-- Track unmatched English key
+		            Reporter.log("English translation not matched", true);
+		        }
+
+		        se1.selectByVisibleText("Deutsch");
+		        Thread.sleep(4000);
+
+		        int ZA1 = getTransCount.size();
+		        boolean deMatchFound = false;
+
+		        for (int q = 0; q < ZA1; q++) {
+		            WebElement getTrans = getTransCount.get(q);
+		            String ab = getTrans.getText().trim();
+
+		            if (ab.equals(de.trim())) {
+		                Reporter.log("The Deutsch translation Match.", true);
+		                deMatchFound = true;
+		                break;
+		            }
+		        }
+
+		        if (!deMatchFound) {
+		            failCount++;
+		            failedLoopNumbers.add(i);
+		            failedKeys.add(key); // <-- Track unmatched Deutsch key
+		            Reporter.log("Deutsch translation not matched", true);
+		        }
+
+		        
+		        se1.selectByVisibleText("All");
+		        Thread.sleep(4000);
+		        
+		        
+		        
+		        
+	
+
+
+		            if (englishGenesisTrans.isDisplayed()) {
+		                Reporter.log("The Genesis-englis translation Match.", true);
+		                deMatchFound = true;
+		               
+		            }
+		            
+		            else 
+		            {
+		            	Reporter.log("The Genesis-englis translation not Match.", true);
+		            	
+		            }
+
+		        searchKey.clear();
+		        Thread.sleep(1000);
+
+		        Reporter.log("|------------------------------------------------------|", true);
+		        Reporter.log(" ", true);
+		    }
+		    
+		    
+		    
+
+		    Reporter.log("faild traslation count  >" + failCount, true);
+		    Reporter.log("faild traslation loop no  >" + failedLoopNumbers, true);
+
+		    // <-- Add this block to print unmatched keys
+		    Reporter.log("Unmatched Keys:", true);
+		    for (String failedKey : failedKeys) {
+		        Reporter.log(failedKey, true);
+		    }
+
+		    Reporter.log(" ", true);
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		if (productNumber.equals("4")) 
 		{
 		
@@ -583,7 +756,7 @@ public class D_traslation extends AAA_baseClass {
 		
 		count = sheet.getPhysicalNumberOfRows();
 		
-		System.out.println(count);
+		System.out.println((count-1));
 		List<Integer> failedLoopNumbers = new ArrayList<>();
 
 		
@@ -695,164 +868,7 @@ public class D_traslation extends AAA_baseClass {
 	
 	
 	
-		if (productNumber.equals("7")) 
-		{
-			
-			
-			
-			 File src = new File(".\\DataFile\\TraslationFile.xlsx");
-			 FileInputStream ipt = new FileInputStream(src);
-			    XSSFWorkbook wb = new XSSFWorkbook(ipt);
-			    XSSFSheet sheet = wb.getSheetAt(1);
-
-			    count = sheet.getPhysicalNumberOfRows();
-			    
-			    Reporter.log("Checking Weber rescue hub Translation.", true);
-			    Reporter.log("Total Traslation Available in sheet-"+ count, true);
-
-			    List<Integer> failedLoopNumbers = new ArrayList<>();
-			    List<String> failedKeys = new ArrayList<>(); // <-- Added list for unmatched keys
-			    int failCount = 0;
-
-			    traslation.click();
-			    Thread.sleep(2000);
-			    
-			    Select pg = new Select (itemPerPage); 
-			    
-			    pg.selectByVisibleText("100");
-			    Thread.sleep(2000);
-
-			    for (int i = 1; i <= count - 1; i++) {
-
-			        Reporter.log("TRASLATION NO-" + i, true);
-
-			        pName = sheet.getRow(i).getCell(0).getStringCellValue();
-			        tCat = sheet.getRow(i).getCell(1).getStringCellValue();
-			        tSubCat = sheet.getRow(i).getCell(2).getStringCellValue();
-			        key = sheet.getRow(i).getCell(3).getStringCellValue();
-//			        Reporter.log("Key > " + key, true);
-			        en = sheet.getRow(i).getCell(4).getStringCellValue();
-			        de = sheet.getRow(i).getCell(5).getStringCellValue();
-			        es = sheet.getRow(i).getCell(6).getStringCellValue();
-			        fr = sheet.getRow(i).getCell(7).getStringCellValue();
-			        sl = sheet.getRow(i).getCell(8).getStringCellValue();
-			        jp = sheet.getRow(i).getCell(9).getStringCellValue();
-			        Actions act = new Actions(driver);
-
-			        searchKey.click();
-			        Thread.sleep(1000);
-			        act.sendKeys(key).perform();
-			        Thread.sleep(2000);
-			        System.out.println("Key > " + key);
-
-			        Select se = new Select(CKSelectProduct);
-			        se.selectByVisibleText(pName);
-			        Thread.sleep(1000);
-
-			        Select se1 = new Select(CKSelectLanguage);
-			        se1.selectByVisibleText("English");
-			        Thread.sleep(1000);
-			        
-			        
-
-			        Select se2 = new Select(CKSelectCatory);
-			        se2.selectByVisibleText(tCat);
-			        Thread.sleep(1000);
-			        
-			        
-			        Select se3 = new Select(CKSelectSubCatory);
-			        se3.selectByVisibleText(tSubCat);
-			        Thread.sleep(1000);
-			        
-			       
-			        int ZA = getTransCount.size();
-			        boolean enMatchFound = false;
-
-			        for (int q = 0; q < ZA; q++) {
-			            WebElement getTrans = getTransCount.get(q);
-			            String ab = getTrans.getText().trim();
-
-			            if (ab.equals(en.trim())) {
-			                Reporter.log("The English translation Match.", true);
-			                enMatchFound = true;
-			                break;
-			            }
-			        }
-
-			        if (!enMatchFound) {
-			            failCount++;
-			            failedLoopNumbers.add(i);
-			            failedKeys.add(key); // <-- Track unmatched English key
-			            Reporter.log("English translation not matched", true);
-			        }
-
-			        se1.selectByVisibleText("Deutsch");
-			        Thread.sleep(4000);
-
-			        int ZA1 = getTransCount.size();
-			        boolean deMatchFound = false;
-
-			        for (int q = 0; q < ZA1; q++) {
-			            WebElement getTrans = getTransCount.get(q);
-			            String ab = getTrans.getText().trim();
-
-			            if (ab.equals(de.trim())) {
-			                Reporter.log("The Deutsch translation Match.", true);
-			                deMatchFound = true;
-			                break;
-			            }
-			        }
-
-			        if (!deMatchFound) {
-			            failCount++;
-			            failedLoopNumbers.add(i);
-			            failedKeys.add(key); // <-- Track unmatched Deutsch key
-			            Reporter.log("Deutsch translation not matched", true);
-			        }
-
-			        
-			        se1.selectByVisibleText("All");
-			        Thread.sleep(4000);
-			        
-			        
-			        
-			        
 		
-
-
-			            if (englishGenesisTrans.isDisplayed()) {
-			                Reporter.log("The Genesis-englis translation Match.", true);
-			                deMatchFound = true;
-			               
-			            }
-			            
-			            else 
-			            {
-			            	Reporter.log("The Genesis-englis translation not Match.", true);
-			            	
-			            }
-
-			        searchKey.clear();
-			        Thread.sleep(1000);
-
-			        Reporter.log("|------------------------------------------------------|", true);
-			        Reporter.log(" ", true);
-			    }
-			    
-			    
-			    
-
-			    Reporter.log("faild traslation count  >" + failCount, true);
-			    Reporter.log("faild traslation loop no  >" + failedLoopNumbers, true);
-
-			    // <-- Add this block to print unmatched keys
-			    Reporter.log("Unmatched Keys:", true);
-			    for (String failedKey : failedKeys) {
-			        Reporter.log(failedKey, true);
-			    }
-
-			    Reporter.log(" ", true);
-			}
 			
 		
 		
