@@ -58,19 +58,6 @@ public class AA_TestClass extends AAA_baseClass {
 	}
 	
 	
-	@Test
-	public void checkTraslation () throws Throwable
-	{
-		
-		
-		ts.checkTraslation( driver, productNumber, count,  pName, tCat, key,  en, de, ProdApplication,  tSubCat,  es,
-				 fr,  sl,  jp);
-			
-		
-		
-	}
-	
-	
 	
 	
 	

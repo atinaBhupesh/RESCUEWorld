@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -101,6 +101,11 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
                     </span>
                     <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="live.AA_TestClass" class="method navigator-link" hash-for-method="addTraslation">addTraslation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="live.AA_TestClass" class="method navigator-link" hash-for-method="checkTraslation">checkTraslation</a> <!-- method navigator-link -->
@@ -126,6 +131,13 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
+                  <a name="addTraslation">
+                  </a> <!-- addTraslation -->
+                  <span class="method-name">addTraslation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="checkTraslation">
                   </a> <!-- checkTraslation -->
                   <span class="method-name">checkTraslation</span>
@@ -147,6 +159,7 @@
     &lt;classes&gt;
       &lt;class name=&quot;live.AA_TestClass&quot;&gt;
         &lt;methods&gt;
+          &lt;include name=&quot;addTraslation&quot;/&gt;
           &lt;include name=&quot;checkTraslation&quot;/&gt;
         &lt;/methods&gt;
       &lt;/class&gt; &lt;!-- live.AA_TestClass --&gt;
@@ -189,16 +202,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'checkTraslation')
+data.setCell(0, 1, 'addTraslation')
 data.setCell(0, 2, 'live.AA_TestClass')
-data.setCell(0, 3, 3);
+data.setCell(0, 3, 1590434);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'checkTraslation')
+data.setCell(1, 2, 'live.AA_TestClass')
+data.setCell(1, 3, 950521);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 3 ms</span>
+              <span class="suite-total-time">Total running time: 42 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -209,20 +226,514 @@ return data;
             <span class="header-content">Reporter output for Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">addTraslation</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Adding Translation To Weber rescue hub</span>
+                <span class="reporter-method-output">Total Traslation Available in sheet-40.0</span>
+                <span class="reporter-method-output">TRASLATION NO-1</span>
+                <span class="reporter-method-output">Key > device_device_details_popover_filter_date_this_month</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-2</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_location</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-3</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_last_location</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-4</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_battery_replacement</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-5</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_700_bar</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-6</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_operation_hours</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-7</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_service</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-8</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_recommendation</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-9</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_actions</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-10</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_device_status_not_ready_for_use</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-11</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_device_status_conditionally_operational</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-12</span>
+                <span class="reporter-method-output">Key > device_device_details_device_status_ready_for_use</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-13</span>
+                <span class="reporter-method-output">Key > device_device_details_popover_filter_date_this_month</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-14</span>
+                <span class="reporter-method-output">Key > device_device_details_popover_filter_date_last_month</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-15</span>
+                <span class="reporter-method-output">Key > device_device_details_popover_filter_date_this_year</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-16</span>
+                <span class="reporter-method-output">Key > device_device_details_popover_filter_date_last_year</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-17</span>
+                <span class="reporter-method-output">Key > device_device_details_popover_filter_date_custom_date</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-18</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-19</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_version</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-20</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_status</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-21</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_image</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-22</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_device_name</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-23</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_tin</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-24</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_battery_level</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-25</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_remark</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-26</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_on_off</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-27</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_device_category</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-28</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_vehicle</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-29</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_station</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-30</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_total_device_count</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-31</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_add_filters</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-32</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_add</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-33</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_create_filters</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-34</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_custom_save_view</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-35</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_custom_view</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-36</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_designation</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-37</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_define_names</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-38</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_include_current_filters_and_conditions</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-39</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_confirm</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-40</span>
+                <span class="reporter-method-output">Key > device_device_details_service_dashboard_cancel</span>
+                <span class="reporter-method-output">>>>>> Weber Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">>>>>> Genesis Translation already exists.<<<<<</span>
+                <span class="reporter-method-output">|--------------------------------------------------------------------| </span>
+                <span class="reporter-method-output"> </span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">checkTraslation</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Checking Weber rescue hub Translation.</span>
+                <span class="reporter-method-output">Total Traslation Available in sheet-40.0</span>
+                <span class="reporter-method-output">TRASLATION NO-1</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-2</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-3</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-4</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-5</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-6</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-7</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-8</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-9</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-10</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-11</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-12</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-13</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-14</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-15</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-16</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-17</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-18</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">Deutsch translation not matched</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-19</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-20</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-21</span>
+                <span class="reporter-method-output">English translation not matched</span>
+                <span class="reporter-method-output">Deutsch translation not matched</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-22</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-23</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-24</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-25</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-26</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-27</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-28</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-29</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-30</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-31</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-32</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-33</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-34</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-35</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-36</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-37</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-38</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-39</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">TRASLATION NO-40</span>
+                <span class="reporter-method-output">The English translation Match.</span>
+                <span class="reporter-method-output">The Deutsch translation Match.</span>
+                <span class="reporter-method-output">The Genesis-englis translation Match.</span>
+                <span class="reporter-method-output">|------------------------------------------------------|</span>
+                <span class="reporter-method-output"> </span>
+                <span class="reporter-method-output">faild traslation count  >3</span>
+                <span class="reporter-method-output">faild traslation loop no  >[18, 21, 21]</span>
+                <span class="reporter-method-output">Unmatched Keys:</span>
+                <span class="reporter-method-output">device_device_details_service_dashboard</span>
+                <span class="reporter-method-output">device_device_details_service_dashboard_image</span>
+                <span class="reporter-method-output">device_device_details_service_dashboard_image</span>
+                <span class="reporter-method-output"> </span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">1 ignored method</span>
+            <span class="header-content">0 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">live.AA_TestClass</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">addTraslation</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-Suite" class="panel">
@@ -238,19 +749,31 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">backToHome</span>
-                <span class="method-start">19113 ms</span>
+                <span class="method-start">10024 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">checkTraslation</span>
-                <span class="method-start">21980 ms</span>
+                <span class="method-name">addTraslation</span>
+                <span class="method-start">12868 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">backToHomePage2</span>
-                <span class="method-start">21985 ms</span>
+                <span class="method-start">1603304 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">backToHome</span>
+                <span class="method-start">1605411 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">checkTraslation</span>
+                <span class="method-start">1607468 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">backToHomePage2</span>
+                <span class="method-start">2557995 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-class after">
                 <span class="method-name">m2</span>
-                <span class="method-start">24033 ms</span>
+                <span class="method-start">2560129 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

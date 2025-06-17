@@ -10,7 +10,9 @@
 	
 	
 	
-		  <include name="checkTraslation"  /> 
+		   <include name="addTraslation"  /> 
+		   
+		
 		    
        </methods>
       

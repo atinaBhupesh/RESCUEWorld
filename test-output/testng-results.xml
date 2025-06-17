@@ -1,32 +1,2990 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Adding Translation To Weber rescue hub]]>
+    </line>
+    <line>
+      <![CDATA[Total Traslation Available in sheet-40.0]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-1]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-2]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_location]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-3]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_last_location]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-4]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_battery_replacement]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-5]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_700_bar]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-6]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_operation_hours]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-7]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_service]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-8]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_recommendation]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-9]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_actions]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-10]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_device_status_not_ready_for_use]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-11]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_device_status_conditionally_operational]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-12]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_device_status_ready_for_use]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-13]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-14]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-15]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-16]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-17]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-18]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-19]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_version]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-20]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_status]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-21]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_image]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-22]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_device_name]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-23]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_tin]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-24]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_battery_level]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-25]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_remark]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-26]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_on_off]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-27]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_device_category]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-28]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_vehicle]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-29]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_station]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-30]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_total_device_count]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-31]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_add_filters]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-32]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_add]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-33]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_create_filters]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-34]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_custom_save_view]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-35]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_custom_view]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-36]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_designation]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-37]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_define_names]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-38]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_include_current_filters_and_conditions]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-39]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_confirm]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-40]]>
+    </line>
+    <line>
+      <![CDATA[Key > device_device_details_service_dashboard_cancel]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Checking Weber rescue hub Translation.]]>
+    </line>
+    <line>
+      <![CDATA[Total Traslation Available in sheet-40.0]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-1]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-2]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-3]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-4]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-5]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-6]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-7]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-8]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-9]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-10]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-11]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-12]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-13]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-14]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-15]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-16]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-17]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-18]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch translation not matched]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-19]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-20]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-21]]>
+    </line>
+    <line>
+      <![CDATA[English translation not matched]]>
+    </line>
+    <line>
+      <![CDATA[Deutsch translation not matched]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-22]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-23]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-24]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-25]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-26]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-27]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-28]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-29]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-30]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-31]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-32]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-33]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-34]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-35]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-36]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-37]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-38]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-39]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[TRASLATION NO-40]]>
+    </line>
+    <line>
+      <![CDATA[The English translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Deutsch translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[The Genesis-englis translation Match.]]>
+    </line>
+    <line>
+      <![CDATA[|------------------------------------------------------|]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[faild traslation count  >3]]>
+    </line>
+    <line>
+      <![CDATA[faild traslation loop no  >[18, 21, 21]]]>
+    </line>
+    <line>
+      <![CDATA[Unmatched Keys:]]>
+    </line>
+    <line>
+      <![CDATA[device_device_details_service_dashboard]]>
+    </line>
+    <line>
+      <![CDATA[device_device_details_service_dashboard_image]]>
+    </line>
+    <line>
+      <![CDATA[device_device_details_service_dashboard_image]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
     <line>
       <![CDATA[logout successfully. ]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-06-13T12:18:44 IST" name="Suite" finished-at="2025-06-13T12:19:12 IST" duration-ms="28338">
+  <suite started-at="2025-06-17T13:47:58 IST" name="Suite" finished-at="2025-06-17T14:30:42 IST" duration-ms="2564518">
     <groups>
     </groups>
-    <test started-at="2025-06-13T12:18:44 IST" name="Test" finished-at="2025-06-13T12:19:12 IST" duration-ms="28338">
+    <test started-at="2025-06-17T13:47:58 IST" name="Test" finished-at="2025-06-17T14:30:42 IST" duration-ms="2564518">
       <class name="live.AA_TestClass">
-        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T12:18:44 IST" name="m1" finished-at="2025-06-13T12:19:03 IST" duration-ms="19108" status="PASS">
+        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T13:47:58 IST" name="m1" finished-at="2025-06-17T13:48:08 IST" duration-ms="10018" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
-        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T12:19:03 IST" name="backToHome" finished-at="2025-06-13T12:19:06 IST" duration-ms="2867" status="PASS">
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T13:48:08 IST" name="backToHome" finished-at="2025-06-17T13:48:11 IST" duration-ms="2844" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- backToHome -->
-        <test-method signature="checkTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T12:19:06 IST" name="checkTraslation" finished-at="2025-06-13T12:19:06 IST" duration-ms="3" status="PASS">
+        <test-method signature="addTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T13:48:11 IST" name="addTraslation" finished-at="2025-06-17T14:14:41 IST" duration-ms="1590434" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Adding Translation To Weber rescue hub]]>
+            </line>
+            <line>
+              <![CDATA[Total Traslation Available in sheet-40.0]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-1]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-2]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_location]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-3]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_last_location]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-4]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_battery_replacement]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-5]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_700_bar]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-6]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_operation_hours]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-7]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_service]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-8]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_recommendation]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-9]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_actions]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-10]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_device_status_not_ready_for_use]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-11]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_device_status_conditionally_operational]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-12]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_device_status_ready_for_use]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-13]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_month]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-14]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_month]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-15]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_this_year]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-16]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_last_year]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-17]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_popover_filter_date_custom_date]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-18]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-19]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_version]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-20]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_status]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-21]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_image]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-22]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_device_name]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-23]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_tin]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-24]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_battery_level]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-25]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_remark]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-26]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_on_off]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-27]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_device_category]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-28]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_vehicle]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-29]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_station]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-30]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_total_device_count]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-31]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_add_filters]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-32]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_add]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-33]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_create_filters]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-34]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_custom_save_view]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-35]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_custom_view]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-36]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_designation]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-37]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_define_names]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-38]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_include_current_filters_and_conditions]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-39]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_confirm]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-40]]>
+            </line>
+            <line>
+              <![CDATA[Key > device_device_details_service_dashboard_cancel]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- checkTraslation -->
-        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T12:19:06 IST" name="backToHomePage2" finished-at="2025-06-13T12:19:08 IST" duration-ms="2047" status="PASS">
+        </test-method> <!-- addTraslation -->
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T14:14:41 IST" name="backToHomePage2" finished-at="2025-06-17T14:14:43 IST" duration-ms="2103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- backToHomePage2 -->
-        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-13T12:19:08 IST" name="m2" finished-at="2025-06-13T12:19:12 IST" duration-ms="4282" status="PASS">
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T14:14:43 IST" name="backToHome" finished-at="2025-06-17T14:14:45 IST" duration-ms="2057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+        <test-method signature="checkTraslation()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T14:14:45 IST" name="checkTraslation" finished-at="2025-06-17T14:30:36 IST" duration-ms="950521" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking Weber rescue hub Translation.]]>
+            </line>
+            <line>
+              <![CDATA[Total Traslation Available in sheet-40.0]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-1]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-2]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-3]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-4]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-5]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-6]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-7]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-8]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-9]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-10]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-11]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-12]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-13]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-14]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-15]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-16]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-17]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-18]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch translation not matched]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-19]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-20]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-21]]>
+            </line>
+            <line>
+              <![CDATA[English translation not matched]]>
+            </line>
+            <line>
+              <![CDATA[Deutsch translation not matched]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-22]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-23]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-24]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-25]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-26]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-27]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-28]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-29]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-30]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-31]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-32]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-33]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-34]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-35]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-36]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-37]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-38]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-39]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[TRASLATION NO-40]]>
+            </line>
+            <line>
+              <![CDATA[The English translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Deutsch translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[The Genesis-englis translation Match.]]>
+            </line>
+            <line>
+              <![CDATA[|------------------------------------------------------|]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[faild traslation count  >3]]>
+            </line>
+            <line>
+              <![CDATA[faild traslation loop no  >[18, 21, 21]]]>
+            </line>
+            <line>
+              <![CDATA[Unmatched Keys:]]>
+            </line>
+            <line>
+              <![CDATA[device_device_details_service_dashboard]]>
+            </line>
+            <line>
+              <![CDATA[device_device_details_service_dashboard_image]]>
+            </line>
+            <line>
+              <![CDATA[device_device_details_service_dashboard_image]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkTraslation -->
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T14:30:36 IST" name="backToHomePage2" finished-at="2025-06-17T14:30:38 IST" duration-ms="2133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHomePage2 -->
+        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@173ed316]" started-at="2025-06-17T14:30:38 IST" name="m2" finished-at="2025-06-17T14:30:42 IST" duration-ms="4368" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout successfully. ]]>
