@@ -102,7 +102,7 @@ public class D_traslation extends AAA_baseClass {
 
 			count = sheet.getPhysicalNumberOfRows();
 			
-			  Reporter.log("Adding Translation To RETTERAlarm.", true);
+			  Reporter.log(" Adding Translation To RETTERAlarm.", true);
 			  Reporter.log("Total Traslation Available in sheet-"+ (count-1), true);
 			  System.out.println();
 			  
@@ -110,7 +110,7 @@ public class D_traslation extends AAA_baseClass {
 			Thread.sleep(2000);
 
 			for (int i = 1; i <= count - 1; i++) {
-			    Reporter.log("TRASLATION NO-" + i, true);
+			    Reporter.log(" TRASLATION NO-" + i, true);
 
 			    pName = sheet.getRow(i).getCell(0).getStringCellValue();
 //			    Reporter.log("Product Name > " + pName, true);
@@ -132,25 +132,22 @@ public class D_traslation extends AAA_baseClass {
 
 			    Select se1 = new Select(selectProduct);
 			    se1.selectByVisibleText(pName);
-			    Thread.sleep(3000);
+			    Thread.sleep(1000);
 
 			    Select se2 = new Select(traslationCategory);
 			    se2.selectByVisibleText(tCat);
-			    Thread.sleep(3000);
+			    Thread.sleep(1000);
 
 			    Actions act = new Actions(driver);
 
 			    traslationKey.click();
 			    act.sendKeys(key).perform();
-			    Thread.sleep(2000);
 
 			    englishTraslationfield.click();
 			    act.sendKeys(en).perform();
-			    Thread.sleep(2000);
 
 			    deutschTraslationField.click();
 			    act.sendKeys(de).perform();
-			    Thread.sleep(2000);
 
 			    Thread.sleep(1000);
 			    submitTraslation.click();
@@ -203,7 +200,7 @@ public class D_traslation extends AAA_baseClass {
 		
 		for (int i=1;i<=count-1;i++)
 		{
-			Reporter.log("TRASLATION NO-"+i,true );
+			Reporter.log(" TRASLATION NO-"+i,true );
 			
 			
 			pName = sheet.getRow(i).getCell(0).getStringCellValue();
@@ -291,7 +288,7 @@ public class D_traslation extends AAA_baseClass {
 				addTraslation.click();
 				Thread.sleep(2000);
 
-				Reporter.log("TRASLATION NO-" + i, true);
+				Reporter.log(" TRASLATION NO-" + i, true);
 
 				pName = sheet.getRow(i).getCell(0).getStringCellValue();
 				tCat = sheet.getRow(i).getCell(1).getStringCellValue();

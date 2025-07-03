@@ -5,12 +5,11 @@
     <classes>
       <class name="live.AA_TestClass">
         <methods>
-          <include name="backToHomePage2"/>
           <include name="backToHome"/>
-          <include name="checkTraslation"/>
+          <include name="backToHomePage2"/>
           <include name="m1"/>
-          <include name="addTraslation"/>
           <include name="m2"/>
+          <include name="addTraslation"/>
         </methods>
       </class> <!-- live.AA_TestClass -->
     </classes>
