@@ -17,7 +17,7 @@
       <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
     </line>
     <line>
       <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -32,10 +32,10 @@
       <![CDATA[Key > device_service_recommendation_note_two_service_date_expired]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
     </line>
     <line>
       <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -50,10 +50,10 @@
       <![CDATA[Key > device_service_recommendation_note_three_service_date_expired_more_than_365_days]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
     </line>
     <line>
       <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -68,10 +68,10 @@
       <![CDATA[Key > device_service_recommendation_note_four_yellow_flag_repeat]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
     </line>
     <line>
-      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
     </line>
     <line>
       <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -86,6 +86,24 @@
       <![CDATA[Key > device_service_recommendation_note_five_last_result_red_flag]]>
     </line>
     <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-6]]>
+    </line>
+    <line>
+      <![CDATA[Key > service_recommendation_device_not_found_message]]>
+    </line>
+    <line>
       <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
     </line>
     <line>
@@ -98,7 +116,583 @@
       <![CDATA[ ]]>
     </line>
     <line>
-      <![CDATA[ TRASLATION NO-6]]>
+      <![CDATA[ TRASLATION NO-7]]>
+    </line>
+    <line>
+      <![CDATA[Key > service_dashboard_setting_record_not_found_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-8]]>
+    </line>
+    <line>
+      <![CDATA[Key > service_dashboard_setting_record_found_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-9]]>
+    </line>
+    <line>
+      <![CDATA[Key > service_dashboard_setting_id_required]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-10]]>
+    </line>
+    <line>
+      <![CDATA[Key > service_dashboard_setting_record_updated_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-11]]>
+    </line>
+    <line>
+      <![CDATA[Key > service_dashboard_setting_not_updated_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-12]]>
+    </line>
+    <line>
+      <![CDATA[Key > filter_dropdown_options_found_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-13]]>
+    </line>
+    <line>
+      <![CDATA[Key > custom_filter_name_is_required_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-14]]>
+    </line>
+    <line>
+      <![CDATA[Key > custom_filter_name_is_already_exist]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-15]]>
+    </line>
+    <line>
+      <![CDATA[Key > custom_filter_record_save_success_msg]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-16]]>
+    </line>
+    <line>
+      <![CDATA[Key > custom_filter_record_fetched_success_msg]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-17]]>
+    </line>
+    <line>
+      <![CDATA[Key > custom_filter_delete_failed]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-18]]>
+    </line>
+    <line>
+      <![CDATA[Key > custom_filter_id_required]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-19]]>
+    </line>
+    <line>
+      <![CDATA[Key > filter_dropdown_options_device_record_not_found]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-20]]>
+    </line>
+    <line>
+      <![CDATA[Key > filter_dropdown_options_fetch_success]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-21]]>
+    </line>
+    <line>
+      <![CDATA[Key > check_box_select_device_Ids_missing]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-22]]>
+    </line>
+    <line>
+      <![CDATA[Key > check_box_select_device_ids_save_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-23]]>
+    </line>
+    <line>
+      <![CDATA[Key > check_box_select_device_ids_save_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-24]]>
+    </line>
+    <line>
+      <![CDATA[Key > check_box_select_device_records_not_found]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-25]]>
+    </line>
+    <line>
+      <![CDATA[Key > check_box_select_device_ids_remove_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-26]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_settings_saved_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-27]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_setting_userID_email_requird]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-28]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_setting_not_found_updated]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-29]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_secondary_emails_updated]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-30]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_setting_user_id_required]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-31]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_secondary_email_not_found]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-32]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_secondary_email_deleted]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-33]]>
+    </line>
+    <line>
+      <![CDATA[Key > notification_settings_found_success_message]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-34]]>
+    </line>
+    <line>
+      <![CDATA[Key > days_expired_red]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-35]]>
+    </line>
+    <line>
+      <![CDATA[Key > max_tool_usage_before_test]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-36]]>
+    </line>
+    <line>
+      <![CDATA[Key > yellow_flag_threshold]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-37]]>
+    </line>
+    <line>
+      <![CDATA[Key > last_online_date_threshold]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-38]]>
+    </line>
+    <line>
+      <![CDATA[Key > operation_hours_threshold]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+    </line>
+    <line>
+      <![CDATA[|--------------------------------------------------------------------| ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ TRASLATION NO-39]]>
     </line>
     <line>
       <![CDATA[Key > ]]>
@@ -107,20 +701,20 @@
       <![CDATA[logout successfully. ]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-07-02T15:43:49 IST" name="Suite" finished-at="2025-07-02T15:48:21 IST" duration-ms="271572">
+  <suite started-at="2025-07-14T16:17:39 IST" name="Suite" finished-at="2025-07-14T16:45:39 IST" duration-ms="1679458">
     <groups>
     </groups>
-    <test started-at="2025-07-02T15:43:49 IST" name="Test" finished-at="2025-07-02T15:48:21 IST" duration-ms="271572">
+    <test started-at="2025-07-14T16:17:39 IST" name="Test" finished-at="2025-07-14T16:45:39 IST" duration-ms="1679458">
       <class name="live.AA_TestClass">
-        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-02T15:43:49 IST" name="m1" finished-at="2025-07-02T15:44:02 IST" duration-ms="13126" status="PASS">
+        <test-method is-config="true" signature="m1()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-14T16:17:39 IST" name="m1" finished-at="2025-07-14T16:17:53 IST" duration-ms="13498" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
-        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-02T15:44:02 IST" name="backToHome" finished-at="2025-07-02T15:44:05 IST" duration-ms="3020" status="PASS">
+        <test-method is-config="true" signature="backToHome()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-14T16:17:53 IST" name="backToHome" finished-at="2025-07-14T16:17:56 IST" duration-ms="2931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- backToHome -->
-        <test-method signature="addTraslation()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-02T15:44:05 IST" name="addTraslation" finished-at="2025-07-02T15:48:15 IST" duration-ms="249026" status="FAIL">
+        <test-method signature="addTraslation()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-14T16:17:56 IST" name="addTraslation" finished-at="2025-07-14T16:45:32 IST" duration-ms="1656578" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Cannot locate option with text: 
@@ -186,7 +780,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
             </line>
             <line>
               <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -201,10 +795,10 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[Key > device_service_recommendation_note_two_service_date_expired]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
             </line>
             <line>
               <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -219,10 +813,10 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[Key > device_service_recommendation_note_three_service_date_expired_more_than_365_days]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
             </line>
             <line>
               <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -237,10 +831,10 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[Key > device_service_recommendation_note_four_yellow_flag_repeat]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
             </line>
             <line>
-              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
             </line>
             <line>
               <![CDATA[|--------------------------------------------------------------------| ]]>
@@ -255,6 +849,24 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[Key > device_service_recommendation_note_five_last_result_red_flag]]>
             </line>
             <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-6]]>
+            </line>
+            <line>
+              <![CDATA[Key > service_recommendation_device_not_found_message]]>
+            </line>
+            <line>
               <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
             </line>
             <line>
@@ -267,18 +879,594 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               <![CDATA[ ]]>
             </line>
             <line>
-              <![CDATA[ TRASLATION NO-6]]>
+              <![CDATA[ TRASLATION NO-7]]>
+            </line>
+            <line>
+              <![CDATA[Key > service_dashboard_setting_record_not_found_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-8]]>
+            </line>
+            <line>
+              <![CDATA[Key > service_dashboard_setting_record_found_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-9]]>
+            </line>
+            <line>
+              <![CDATA[Key > service_dashboard_setting_id_required]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-10]]>
+            </line>
+            <line>
+              <![CDATA[Key > service_dashboard_setting_record_updated_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-11]]>
+            </line>
+            <line>
+              <![CDATA[Key > service_dashboard_setting_not_updated_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-12]]>
+            </line>
+            <line>
+              <![CDATA[Key > filter_dropdown_options_found_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-13]]>
+            </line>
+            <line>
+              <![CDATA[Key > custom_filter_name_is_required_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-14]]>
+            </line>
+            <line>
+              <![CDATA[Key > custom_filter_name_is_already_exist]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-15]]>
+            </line>
+            <line>
+              <![CDATA[Key > custom_filter_record_save_success_msg]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-16]]>
+            </line>
+            <line>
+              <![CDATA[Key > custom_filter_record_fetched_success_msg]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-17]]>
+            </line>
+            <line>
+              <![CDATA[Key > custom_filter_delete_failed]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-18]]>
+            </line>
+            <line>
+              <![CDATA[Key > custom_filter_id_required]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-19]]>
+            </line>
+            <line>
+              <![CDATA[Key > filter_dropdown_options_device_record_not_found]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-20]]>
+            </line>
+            <line>
+              <![CDATA[Key > filter_dropdown_options_fetch_success]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-21]]>
+            </line>
+            <line>
+              <![CDATA[Key > check_box_select_device_Ids_missing]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-22]]>
+            </line>
+            <line>
+              <![CDATA[Key > check_box_select_device_ids_save_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-23]]>
+            </line>
+            <line>
+              <![CDATA[Key > check_box_select_device_ids_save_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Weber Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Genesis Translation already exists.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-24]]>
+            </line>
+            <line>
+              <![CDATA[Key > check_box_select_device_records_not_found]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-25]]>
+            </line>
+            <line>
+              <![CDATA[Key > check_box_select_device_ids_remove_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-26]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_settings_saved_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-27]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_setting_userID_email_requird]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-28]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_setting_not_found_updated]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-29]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_secondary_emails_updated]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-30]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_setting_user_id_required]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-31]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_secondary_email_not_found]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-32]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_secondary_email_deleted]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-33]]>
+            </line>
+            <line>
+              <![CDATA[Key > notification_settings_found_success_message]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-34]]>
+            </line>
+            <line>
+              <![CDATA[Key > days_expired_red]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-35]]>
+            </line>
+            <line>
+              <![CDATA[Key > max_tool_usage_before_test]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-36]]>
+            </line>
+            <line>
+              <![CDATA[Key > yellow_flag_threshold]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-37]]>
+            </line>
+            <line>
+              <![CDATA[Key > last_online_date_threshold]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-38]]>
+            </line>
+            <line>
+              <![CDATA[Key > operation_hours_threshold]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Weber translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> New Genesis translation added successfully.<<<<<]]>
+            </line>
+            <line>
+              <![CDATA[|--------------------------------------------------------------------| ]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[ TRASLATION NO-39]]>
             </line>
             <line>
               <![CDATA[Key > ]]>
             </line>
           </reporter-output>
         </test-method> <!-- addTraslation -->
-        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-02T15:48:15 IST" name="backToHomePage2" finished-at="2025-07-02T15:48:17 IST" duration-ms="2093" status="PASS">
+        <test-method is-config="true" signature="backToHomePage2()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-14T16:45:32 IST" name="backToHomePage2" finished-at="2025-07-14T16:45:34 IST" duration-ms="2087" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- backToHomePage2 -->
-        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-02T15:48:17 IST" name="m2" finished-at="2025-07-02T15:48:21 IST" duration-ms="4261" status="PASS">
+        <test-method is-config="true" signature="m2()[pri:0, instance:live.AA_TestClass@69e153c5]" started-at="2025-07-14T16:45:34 IST" name="m2" finished-at="2025-07-14T16:45:39 IST" duration-ms="4326" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout successfully. ]]>
